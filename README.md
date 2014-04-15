@@ -15,7 +15,6 @@ Sources:
     https://github.com/teambox/Free-file-icons
     http://commons.wikimedia.org/wiki/Category:File_icons
     http://openiconlibrary.sourceforge.net/downloads.html
-    https://www.iconfinder.com/about/api
     
 All icons are free to use, if some icon is infringing authors license/copyright, make a request, and we will replace it.
 Please don't look this repository mainly like icon repository rather like comprehensive collection of file extensions.
